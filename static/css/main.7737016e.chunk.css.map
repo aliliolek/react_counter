@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,OAKC,cAAe","file":"main.7737016e.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n// just changed smth cause i can't add this file in new commit\n\nbutton {\n  cursor: pointer;\n}\n"]}
